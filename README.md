@@ -1,4 +1,8 @@
-## Salve! Eu sou o Christyan Moura.
+## Hi there, I'm Christyan Moura👩‍💻
+
+👨‍🎓 Studying: Computer Science at IFCE;
+
+🎒 Main Tools: Visual Studio Code and GitHub;
  <div>
   <a href="https://github.com/christyanmst/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christyanmst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
