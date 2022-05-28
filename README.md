@@ -1,4 +1,4 @@
-<div align="center" valign="top>
+<div align="center" valign="top">
 <p>## Hi there, I'm Christyan Moura👩‍💻
 
 👨‍🎓 Studying: Computer Science at IFCE;
