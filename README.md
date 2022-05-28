@@ -1,9 +1,9 @@
 <div align="center" valign="top>
-## Hi there, I'm Christyan Moura👩‍💻
+<p>## Hi there, I'm Christyan Moura👩‍💻
 
 👨‍🎓 Studying: Computer Science at IFCE;
 
-🎒 Main Tools: Visual Studio Code and GitHub;
+                            🎒 Main Tools: Visual Studio Code and GitHub;</p>
  </div>
  <div align="center" valign="top">
   <a href="https://github.com/christyanmst/">
