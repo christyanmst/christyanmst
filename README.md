@@ -1,5 +1,5 @@
 <div align="center" valign="top">
-## Hi there, I'm Christyan Moura👩‍💻
+    <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/christyan-moura-1bb8651a3/"><i>Christyan Moura</i></a> 👩‍💻</h1>
 
 👨‍🎓 Studying: Computer Science at IFCE;
 
